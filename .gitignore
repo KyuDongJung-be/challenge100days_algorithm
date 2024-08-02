@@ -1,5 +1,8 @@
 # 디폴트 무시된 파일
-/shelf/
-/.idea/workspace.xml
-out/
-.idea/
+.idea
+.idea/*.xml
+*.imi
+out
+gen
+build
+rebel.xml
