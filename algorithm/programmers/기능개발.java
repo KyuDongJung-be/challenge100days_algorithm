@@ -1,4 +1,4 @@
-package programmers;
+package algorithm.programmers;
 
 import java.util.ArrayList;
 import java.util.LinkedList;
