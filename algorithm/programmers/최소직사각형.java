@@ -1,6 +1,6 @@
-import java.util.*;
+package algorithm.programmers;
 
-class Solution {
+class 최소직사각형 {
     public int solution(int[][] sizes) {
         int answer = 0;
         

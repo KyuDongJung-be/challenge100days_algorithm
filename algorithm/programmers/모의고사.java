@@ -1,6 +1,8 @@
+package algorithm.programmers;
+
 import java.util.*;
 
-class Solution {
+class 모의고사 {
     public int[] solution(int[] answers) {
         int[] answer = {};
         
